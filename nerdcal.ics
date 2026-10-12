@@ -262,7 +262,9 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
  en I first saw Star Wars because my parents couldn't find a sitter. I've b
  een a lifelong fan ever since. This campaign is about asking Mark Hamill f
  or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd] Birthday: Christo
- pher Judge (Teal'c (Stargate SG-1)\; Kratos (God of War)) turns 62
+ pher Judge (Teal'c (Stargate SG-1)\; Kratos (God of War)) turns 62\n[Nerd 
+ ★] First appearance: Harry Mudd - Star Trek 'Mudd's Women'\, 1966 - 60 y
+ ears
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -333,7 +335,8 @@ DTEND;VALUE=DATE:20261022
 DESCRIPTION:[Anchor] Carrie Fisher born 1956 (Leia)\n[Nerd] Birthday: Ursul
  a K. Le Guin (author\, Earthsea) would have been 97\n[Nerd] Fan holiday: B
  ack to the Future Day: the date Marty arrives in Back to the Future Part I
- I
+ I\n[Nerd ★] First appearance: Wonder Woman - All Star Comics #8 goes on 
+ sale\, 1941 - 85 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -449,10 +452,11 @@ BEGIN:VEVENT
 SUMMARY:Day 175
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
-DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old w
- hen I first saw Star Wars because my parents couldn't find a sitter. I've 
- been a lifelong fan ever since. This campaign is about asking Mark Hamill 
- for a birthday wish by May 13\\\, 2027 (my 50th).
+DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
+ en I first saw Star Wars because my parents couldn't find a sitter. I've b
+ een a lifelong fan ever since. This campaign is about asking Mark Hamill f
+ or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd] First appearance:
+  Godzilla - Gojira premieres in Japan (Godzilla Day)\, 1954 - 72 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -543,10 +547,12 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 186
+SUMMARY:Day 186 ★
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [Nerd ★] First appearance: Lara Croft - Tomb Raider releases in North Am
+ erica (Europe got it Oct 24)\, 1996 - 30 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -584,7 +590,10 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
  en I first saw Star Wars because my parents couldn't find a sitter. I've b
  een a lifelong fan ever since. This campaign is about asking Mark Hamill f
  or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd] Anniversary: Star
-  Trek Generations released 1994 - 32 years
+  Trek Generations released 1994 - 32 years\n[Nerd] First appearance: Micke
+ y Mouse - Steamboat Willie premieres (Mickey's official birthday)\, 1928 -
+  98 years\n[Nerd] First appearance: Calvin and Hobbes - first Calvin and H
+ obbes strip\, 1985 - 41 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -704,8 +713,10 @@ BEGIN:VEVENT
 SUMMARY:Day 204
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
-DESCRIPTION:[Anchor] Invincible S2E4 Its Been a While (Art)\\\; Release an
- niversary: Skeleton Crew (Live-Action Series) - 2 years since Dec 02 2024
+DESCRIPTION:[Anchor] Invincible S2E4 Its Been a While (Art)\\\; Release ann
+ iversary: Skeleton Crew (Live-Action Series) - 2 years since Dec 02 2024\n
+ [Nerd] First appearance: Rick and Morty - Rick and Morty pilot airs\, 2013
+  - 13 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -827,7 +838,8 @@ DTEND;VALUE=DATE:20261216
 DESCRIPTION:[Anchor] Release anniversary: The Last Jedi (Film) - 9 years si
  nce Dec 15 2017\n[Nerd] Birthday: Garrett Wang (Harry Kim (Voyager)) turns
   58\n[Nerd] Birthday: Michael Shanks (Daniel Jackson (Stargate SG-1)) turn
- s 56
+ s 56\n[Nerd ★] First appearance: The Romulans - Star Trek 'Balance of Te
+ rror'\, 1966 - 60 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -848,7 +860,8 @@ DTEND;VALUE=DATE:20261218
 DESCRIPTION:[Anchor] Birthday: Rian Johnson (Director The Last Jedi) - turn
  s 53 on Dec 17\n[Nerd] Birthday: Ernie Hudson (Winston Zeddemore (Ghostbus
  ters)) turns 81\n[Nerd] Anniversary: The Return of the King released 2003 
- - 23 years
+ - 23 years\n[Nerd] First appearance: Mega Man - Mega Man (Rockman) release
+ s in Japan\, 1987 - 39 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -861,7 +874,8 @@ DESCRIPTION:[Anchor] Release anniversary: The Force Awakens (Film) - 11 yea
  \, E.T.\, Jurassic Park\, Indiana Jones) turns 80\n[Nerd] Anniversary: The
   Two Towers released 2002 - 24 years\n[In memoriam ★] Majel Barrett-Rodd
  enberry (Nurse Chapel\; voice of the Enterprise computer) died 2008 - 18 y
- ears ago
+ ears ago\n[Nerd ★] First appearance: The Grinch - How the Grinch Stole C
+ hristmas! TV special airs\, 1966 - 60 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -879,19 +893,21 @@ BEGIN:VEVENT
 SUMMARY:Day 222
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DESCRIPTION:[Anchor] Release anniversary: The Rise of Skywalker (Film) - 7
-  years since Dec 20 2019\\\; TV Episode Aired: The Simpsons - Mayored to t
- he Mob - Hamill as Himself + Leaville (dual role) - 28 years since Dec 20 
- 1998
+DESCRIPTION:[Anchor] Release anniversary: The Rise of Skywalker (Film) - 7 
+ years since Dec 20 2019\\\; TV Episode Aired: The Simpsons - Mayored to th
+ e Mob - Hamill as Himself + Leaville (dual role) - 28 years since Dec 20 1
+ 998\n[Nerd] First appearance: Captain America - Captain America Comics #1 
+ goes on sale\, 1940 - 86 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day 223 ★
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
-DESCRIPTION:[Anchor] Birthday: Samuel L. Jackson (Mace Windu) - turns 78 o
- n Dec 21\\\; Announcement anniversary: The Book of Boba Fett (Live-Action 
- Series) - 6 years since Dec 21 2020
+DESCRIPTION:[Anchor] Birthday: Samuel L. Jackson (Mace Windu) - turns 78 on
+  Dec 21\\\; Announcement anniversary: The Book of Boba Fett (Live-Action S
+ eries) - 6 years since Dec 21 2020\n[Nerd] First appearance: The Daleks - 
+ Doctor Who 'The Dead Planet' cliffhanger\, 1963 - 63 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -958,9 +974,10 @@ BEGIN:VEVENT
 SUMMARY:Day 231 ★
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
-DESCRIPTION:[Anchor] Birthday: Diego Luna (Cassian Andor) - turns 47 on De
- c 29\\\; Release anniversary: The Book of Boba Fett (Live-Action Series) -
-  5 years since Dec 29 2021
+DESCRIPTION:[Anchor] Birthday: Diego Luna (Cassian Andor) - turns 47 on Dec
+  29\\\; Release anniversary: The Book of Boba Fett (Live-Action Series) - 
+ 5 years since Dec 29 2021\n[Nerd] First appearance: Tribbles - Star Trek '
+ The Trouble with Tribbles'\, 1967 - 59 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1131,10 +1148,12 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old w
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 252
+SUMMARY:Day 252 ★
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [Nerd ★] First appearance: The Gorn - Star Trek 'Arena'\, 1967 - 60 year
+ s
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1226,10 +1245,12 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 264
+SUMMARY:Day 264 ★
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [Nerd ★] First appearance: Cloud Strife - Final Fantasy VII releases in 
+ Japan (Final Fantasy VII Day)\, 1997 - 30 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1367,7 +1388,8 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
  en I first saw Star Wars because my parents couldn't find a sitter. I've b
  een a lifelong fan ever since. This campaign is about asking Mark Hamill f
  or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd ★] Birthday: LeV
- ar Burton (Geordi La Forge\; Reading Rainbow) turns 70
+ ar Burton (Geordi La Forge\; Reading Rainbow) turns 70\n[Nerd ★] First a
+ ppearance: Khan - Star Trek 'Space Seed'\, 1967 - 60 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1660,10 +1682,12 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 315
+SUMMARY:Day 315 ★
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [Nerd ★] First appearance: The Klingons - Star Trek 'Errand of Mercy'\, 
+ 1967 - 60 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1706,7 +1730,9 @@ BEGIN:VEVENT
 SUMMARY:Day 320
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [Nerd] First appearance: Fry\, Leela and Bender - Futurama 'Space Pilot 30
+ 00'\, 1999 - 28 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1721,7 +1747,9 @@ BEGIN:VEVENT
 SUMMARY:Day 322
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [Nerd] First appearance: Batman - Detective Comics #27 goes on sale\, 1939
+  - 88 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1736,11 +1764,13 @@ BEGIN:VEVENT
 SUMMARY:Day 324 ★
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old w
- hen I first saw Star Wars because my parents couldn't find a sitter. I've 
- been a lifelong fan ever since. This campaign is about asking Mark Hamill 
- for a birthday wish by May 13\\\, 2027 (my 50th).\\\; Birthday: Matt Lante
- r (Anakin Skywalker (The Clone Wars)) - turns 44 on Apr 01
+DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
+ en I first saw Star Wars because my parents couldn't find a sitter. I've b
+ een a lifelong fan ever since. This campaign is about asking Mark Hamill f
+ or a birthday wish by May 13\\\, 2027 (my 50th).\\\; Birthday: Matt Lanter
+  (Anakin Skywalker (The Clone Wars)) - turns 44 on Apr 01\n[Nerd ★] Firs
+ t appearance: Ash and Pikachu - Pokemon anime premieres in Japan\, 1997 - 
+ 30 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1873,7 +1903,8 @@ SUMMARY:Day 339 ★
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
- [Nerd] Birthday: Sean Maher (Dr. Simon Tam) turns 52
+ [Nerd] Birthday: Sean Maher (Dr. Simon Tam) turns 52\n[Nerd] First appeara
+ nce: Totoro - My Neighbor Totoro released in Japan\, 1988 - 39 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1891,15 +1922,17 @@ DTEND;VALUE=DATE:20270419
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
  [Nerd] Birthday: David Tennant (the Tenth Doctor) turns 56\n[Nerd] Birthda
  y: Rick Moranis (Dark Helmet (Spaceballs)\; Louis Tully (Ghostbusters)) tu
- rns 74
+ rns 74\n[Nerd] First appearance: Superman - Action Comics #1 goes on sale\
+ , 1938 - 89 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Day 342 ★
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
-DESCRIPTION:[Anchor] Birthday: Hayden Christensen (Anakin Skywalker / Dart
- h Vader) - turns 46 on Apr 19
+DESCRIPTION:[Anchor] Birthday: Hayden Christensen (Anakin Skywalker / Darth
+  Vader) - turns 46 on Apr 19\n[Nerd ★] First appearance: The Simpsons - 
+ first Simpsons short on The Tracey Ullman Show\, 1987 - 40 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1947,7 +1980,8 @@ SUMMARY:Day 348 ★
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
- [Nerd] Birthday: Gina Torres (Zoe Washburne) turns 58
+ [Nerd] Birthday: Gina Torres (Zoe Washburne) turns 58\n[Nerd] First appear
+ ance: The Joker and Catwoman - Batman #1 goes on sale\, 1940 - 87 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1959,10 +1993,12 @@ DESCRIPTION:[Anchor] Announcement anniversary: Resistance (Animated Series
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 350
+SUMMARY:Day 350 ★
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [Nerd ★] First appearance: Kirby - Kirby's Dream Land releases in Japan\
+ , 1992 - 35 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2000,7 +2036,8 @@ DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 DESCRIPTION:[Anchor] WEDDING VIDEO DAY - Show wedding video: I came out to 
  the Imperial March. A lifelong Star Wars fan through and through.\n[Nerd] 
- Fan holiday: Free Comic Book Day
+ Fan holiday: Free Comic Book Day\n[Nerd] First appearance: SpongeBob - Spo
+ ngeBob SquarePants TV premiere\, 1999 - 28 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2061,7 +2098,9 @@ SUMMARY:Day 361
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
- [Nerd] Anniversary: Star Trek (2009\, Kelvin) released 2009 - 18 years
+ [Nerd] Anniversary: Star Trek (2009\, Kelvin) released 2009 - 18 years\n[N
+ erd] First appearance: The Borg - Star Trek: TNG 'Q Who' (syndicated\, wee
+ k of May 8)\, 1989 - 38 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
