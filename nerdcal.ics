@@ -269,8 +269,9 @@ BEGIN:VEVENT
 SUMMARY:Day 155 ★
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DESCRIPTION:[Anchor] Birthday: Arleen Sorkin (Original Harley Quinn voice)
-  - would have been 71 on Oct 14
+DESCRIPTION:[Anchor] Birthday: Arleen Sorkin (Original Harley Quinn voice) 
+ - would have been 71 on Oct 14\n[In memoriam ★] Robbie Coltrane (Hagrid)
+  died 2022 - 4 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -354,10 +355,12 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 165
+SUMMARY:Day 165 ★
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [In memoriam ★] Gene Roddenberry (creator of Star Trek) died 1991 - 35 y
+ ears ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -524,7 +527,8 @@ DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 DESCRIPTION:[Anchor] Release anniversary: The Mandalorian (Live-Action Seri
  es) - 7 years since Nov 12 2019\n[Nerd] Birthday: Wallace Shawn (Vizzini (
- Princess Bride)\; Grand Nagus Zek (DS9)) turns 83
+ Princess Bride)\; Grand Nagus Zek (DS9)) turns 83\n[In memoriam ★] Stan 
+ Lee (Marvel co-creator) died 2018 - 8 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -644,7 +648,8 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
  een a lifelong fan ever since. This campaign is about asking Mark Hamill f
  or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd] Release: Rings of
   Power season 3 finale\n[Nerd] Birthday: Ricardo Montalban (Khan) would ha
- ve been 106
+ ve been 106\n[In memoriam ★] Ron Glass (Shepherd Book\, Firefly) died 20
+ 16 - 10 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -759,7 +764,8 @@ DESCRIPTION:[Anchor] Video Game Release: Wing Commander III: Heart of the T
  ncle (voice\\\, English dub) - 3 years since Dec 08 2023\n[Nerd ★] Birth
  day: Dominic Monaghan (Merry (LOTR)\; Beaumont Kin (Rise of Skywalker)) tu
  rns 50\n[Nerd] Anniversary: Reimagined Battlestar Galactica miniseries pre
- miered 2003 - 23 years
+ miered 2003 - 23 years\n[In memoriam ★] Rene Auberjonois (Odo\, Deep Spa
+ ce Nine) died 2019 - 7 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -853,7 +859,9 @@ DESCRIPTION:[Anchor] Release anniversary: The Force Awakens (Film) - 11 yea
  rs since Dec 18 2015\n[Nerd] Release: 'Dunesday': Avengers: Doomsday AND D
  une: Part Three both open\n[Nerd ★] Birthday: Steven Spielberg (director
  \, E.T.\, Jurassic Park\, Indiana Jones) turns 80\n[Nerd] Anniversary: The
-  Two Towers released 2002 - 24 years
+  Two Towers released 2002 - 24 years\n[In memoriam ★] Majel Barrett-Rodd
+ enberry (Nurse Chapel\; voice of the Enterprise computer) died 2008 - 18 y
+ ears ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -934,7 +942,8 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
  en I first saw Star Wars because my parents couldn't find a sitter. I've b
  een a lifelong fan ever since. This campaign is about asking Mark Hamill f
  or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd] Birthday: Timothe
- e Chalamet (Paul Atreides (Dune)) turns 31
+ e Chalamet (Paul Atreides (Dune)) turns 31\n[In memoriam ★] Carrie Fishe
+ r (Princess Leia) died 2016 - 10 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1044,13 +1053,14 @@ DESCRIPTION:[Anchor] Announcement anniversary: The Mandalorian & Grogu (Fi
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 243
+SUMMARY:Day 243 ★
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
-DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old w
- hen I first saw Star Wars because my parents couldn't find a sitter. I've 
- been a lifelong fan ever since. This campaign is about asking Mark Hamill 
- for a birthday wish by May 13\\\, 2027 (my 50th).
+DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
+ en I first saw Star Wars because my parents couldn't find a sitter. I've b
+ een a lifelong fan ever since. This campaign is about asking Mark Hamill f
+ or a birthday wish by May 13\\\, 2027 (my 50th).\n[In memoriam ★] David 
+ Bowie (Jareth\, Labyrinth) died 2016 - 11 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1076,12 +1086,13 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 247
+SUMMARY:Day 247 ★
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
  [Nerd] Anniversary: Reimagined Battlestar Galactica series premiered in th
- e US 2005 - 22 years
+ e US 2005 - 22 years\n[In memoriam ★] Alan Rickman (Snape\; Galaxy Quest
+ ) died 2016 - 11 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1222,13 +1233,14 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 265
+SUMMARY:Day 265 ★
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
-DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old w
- hen I first saw Star Wars because my parents couldn't find a sitter. I've 
- been a lifelong fan ever since. This campaign is about asking Mark Hamill 
- for a birthday wish by May 13\\\, 2027 (my 50th).
+DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
+ en I first saw Star Wars because my parents couldn't find a sitter. I've b
+ een a lifelong fan ever since. This campaign is about asking Mark Hamill f
+ or a birthday wish by May 13\\\, 2027 (my 50th).\n[In memoriam ★] Carl W
+ eathers (Greef Karga\; Apollo Creed) died 2024 - 3 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1272,10 +1284,12 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 271
+SUMMARY:Day 271 ★
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [In memoriam ★] Richard Hatch (Apollo\, original Battlestar Galactica\; 
+ Tom Zarek\, reimagined BSG) died 2017 - 10 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1448,7 +1462,8 @@ DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
  [Nerd] Birthday: Adam Baldwin (Jayne Cobb) turns 65\n[Nerd] Fan holiday: P
- okemon Day (Pokemon Red & Green released) 1996 - 31 years
+ okemon Day (Pokemon Red & Green released) 1996 - 31 years\n[In memoriam 
+ ★] Leonard Nimoy (Spock) died 2015 - 12 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1466,7 +1481,8 @@ DESCRIPTION:[Anchor] Birthday: Ron Howard (Director Solo) - turns 73 on Mar
   01\\\; Birthday: Lupita Nyong'o (Maz Kanata) - turns 44 on Mar 01\n[Nerd]
   Release: Starfleet Academy season 2 premieres in March 2027 (exact date T
  BA)\n[Nerd] Birthday: Dirk Benedict (the original Starbuck\; Face (A-Team)
- ) turns 82
+ ) turns 82\n[In memoriam ★] Akira Toriyama (creator of Dragon Ball) died
+  2024 - 3 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1770,8 +1786,9 @@ BEGIN:VEVENT
 SUMMARY:Day 329 ★
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
-DESCRIPTION:[Anchor] Birthday: Billy Dee Williams (Lando Calrissian) - tur
- ns 90 on Apr 06
+DESCRIPTION:[Anchor] Birthday: Billy Dee Williams (Lando Calrissian) - turn
+ s 90 on Apr 06\n[In memoriam ★] Isaac Asimov (author\, Foundation & I\, 
+ Robot) died 1992 - 35 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1966,14 +1983,15 @@ DESCRIPTION:[Anchor] Birthday: Irvin Kershner (Director The Empire Strikes
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 353
+SUMMARY:Day 353 ★
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
  en I first saw Star Wars because my parents couldn't find a sitter. I've b
  een a lifelong fan ever since. This campaign is about asking Mark Hamill f
  or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd] Release: The Lege
- nd of Zelda (live-action) in theaters
+ nd of Zelda (live-action) in theaters\n[In memoriam ★] Peter Mayhew (Che
+ wbacca) died 2019 - 8 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2016,7 +2034,8 @@ DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
  [Nerd] Birthday: John Rhys-Davies (Gimli\; Sallah (Indiana Jones)) turns 8
- 3\n[Nerd ★] Anniversary: Strange New Worlds premiered 2022 - 5 years
+ 3\n[Nerd ★] Anniversary: Strange New Worlds premiered 2022 - 5 years\n[I
+ n memoriam ★] Bernard Hill (Theoden) died 2024 - 3 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2027,13 +2046,14 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 360
+SUMMARY:Day 360 ★
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
-DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old w
- hen I first saw Star Wars because my parents couldn't find a sitter. I've 
- been a lifelong fan ever since. This campaign is about asking Mark Hamill 
- for a birthday wish by May 13\\\, 2027 (my 50th).
+DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
+ en I first saw Star Wars because my parents couldn't find a sitter. I've b
+ een a lifelong fan ever since. This campaign is about asking Mark Hamill f
+ or a birthday wish by May 13\\\, 2027 (my 50th).\n[In memoriam ★] Ray Ha
+ rryhausen (stop-motion effects legend) died 2013 - 14 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2060,10 +2080,12 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 364
+SUMMARY:Day 364 ★
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
-DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
+DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
+ [In memoriam ★] Douglas Adams (author\, Hitchhiker's Guide to the Galaxy
+ ) died 2001 - 26 years ago
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
