@@ -449,14 +449,14 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 175
+SUMMARY:Day 175 ★
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
  en I first saw Star Wars because my parents couldn't find a sitter. I've b
  een a lifelong fan ever since. This campaign is about asking Mark Hamill f
- or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd] First appearance:
-  Godzilla - Gojira premieres in Japan (Godzilla Day)\, 1954 - 72 years
+ or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd ★] First appeara
+ nce: Godzilla - Gojira premieres in Japan (Godzilla Day)\, 1954 - 72 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -583,17 +583,17 @@ DESCRIPTION:[Anchor] Star Wars Holiday Special 1978\\\; Justice League ani
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 190
+SUMMARY:Day 190 ★
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
  en I first saw Star Wars because my parents couldn't find a sitter. I've b
  een a lifelong fan ever since. This campaign is about asking Mark Hamill f
  or a birthday wish by May 13\\\, 2027 (my 50th).\n[Nerd] Anniversary: Star
-  Trek Generations released 1994 - 32 years\n[Nerd] First appearance: Micke
- y Mouse - Steamboat Willie premieres (Mickey's official birthday)\, 1928 -
-  98 years\n[Nerd] First appearance: Calvin and Hobbes - first Calvin and H
- obbes strip\, 1985 - 41 years
+  Trek Generations released 1994 - 32 years\n[Nerd ★] First appearance: M
+ ickey Mouse - Steamboat Willie premieres (Mickey's official birthday)\, 19
+ 28 - 98 years\n[Nerd ★] First appearance: Calvin and Hobbes - first Calv
+ in and Hobbes strip\, 1985 - 41 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -710,13 +710,13 @@ DESCRIPTION:[Anchor] BTAS S2E3 Trial (Joker)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 204
+SUMMARY:Day 204 ★
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 DESCRIPTION:[Anchor] Invincible S2E4 Its Been a While (Art)\\\; Release ann
  iversary: Skeleton Crew (Live-Action Series) - 2 years since Dec 02 2024\n
- [Nerd] First appearance: Rick and Morty - Rick and Morty pilot airs\, 2013
-  - 13 years
+ [Nerd ★] First appearance: Rick and Morty - Rick and Morty pilot airs\, 
+ 2013 - 13 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -860,8 +860,8 @@ DTEND;VALUE=DATE:20261218
 DESCRIPTION:[Anchor] Birthday: Rian Johnson (Director The Last Jedi) - turn
  s 53 on Dec 17\n[Nerd] Birthday: Ernie Hudson (Winston Zeddemore (Ghostbus
  ters)) turns 81\n[Nerd] Anniversary: The Return of the King released 2003 
- - 23 years\n[Nerd] First appearance: Mega Man - Mega Man (Rockman) release
- s in Japan\, 1987 - 39 years
+ - 23 years\n[Nerd ★] First appearance: Mega Man - Mega Man (Rockman) rel
+ eases in Japan\, 1987 - 39 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -890,14 +890,14 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 222
+SUMMARY:Day 222 ★
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 DESCRIPTION:[Anchor] Release anniversary: The Rise of Skywalker (Film) - 7 
  years since Dec 20 2019\\\; TV Episode Aired: The Simpsons - Mayored to th
  e Mob - Hamill as Himself + Leaville (dual role) - 28 years since Dec 20 1
- 998\n[Nerd] First appearance: Captain America - Captain America Comics #1 
- goes on sale\, 1940 - 86 years
+ 998\n[Nerd ★] First appearance: Captain America - Captain America Comics
+  #1 goes on sale\, 1940 - 86 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -906,8 +906,8 @@ DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 DESCRIPTION:[Anchor] Birthday: Samuel L. Jackson (Mace Windu) - turns 78 on
   Dec 21\\\; Announcement anniversary: The Book of Boba Fett (Live-Action S
- eries) - 6 years since Dec 21 2020\n[Nerd] First appearance: The Daleks - 
- Doctor Who 'The Dead Planet' cliffhanger\, 1963 - 63 years
+ eries) - 6 years since Dec 21 2020\n[Nerd ★] First appearance: The Dalek
+ s - Doctor Who 'The Dead Planet' cliffhanger\, 1963 - 63 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -976,8 +976,8 @@ DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 DESCRIPTION:[Anchor] Birthday: Diego Luna (Cassian Andor) - turns 47 on Dec
   29\\\; Release anniversary: The Book of Boba Fett (Live-Action Series) - 
- 5 years since Dec 29 2021\n[Nerd] First appearance: Tribbles - Star Trek '
- The Trouble with Tribbles'\, 1967 - 59 years
+ 5 years since Dec 29 2021\n[Nerd ★] First appearance: Tribbles - Star Tr
+ ek 'The Trouble with Tribbles'\, 1967 - 59 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1727,12 +1727,12 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 320
+SUMMARY:Day 320 ★
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
- [Nerd] First appearance: Fry\, Leela and Bender - Futurama 'Space Pilot 30
- 00'\, 1999 - 28 years
+ [Nerd ★] First appearance: Fry\, Leela and Bender - Futurama 'Space Pilo
+ t 3000'\, 1999 - 28 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1744,12 +1744,12 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 322
+SUMMARY:Day 322 ★
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
- [Nerd] First appearance: Batman - Detective Comics #27 goes on sale\, 1939
-  - 88 years
+ [Nerd ★] First appearance: Batman - Detective Comics #27 goes on sale\, 
+ 1939 - 88 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1903,8 +1903,8 @@ SUMMARY:Day 339 ★
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
- [Nerd] Birthday: Sean Maher (Dr. Simon Tam) turns 52\n[Nerd] First appeara
- nce: Totoro - My Neighbor Totoro released in Japan\, 1988 - 39 years
+ [Nerd] Birthday: Sean Maher (Dr. Simon Tam) turns 52\n[Nerd ★] First app
+ earance: Totoro - My Neighbor Totoro released in Japan\, 1988 - 39 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1922,8 +1922,8 @@ DTEND;VALUE=DATE:20270419
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
  [Nerd] Birthday: David Tennant (the Tenth Doctor) turns 56\n[Nerd] Birthda
  y: Rick Moranis (Dark Helmet (Spaceballs)\; Louis Tully (Ghostbusters)) tu
- rns 74\n[Nerd] First appearance: Superman - Action Comics #1 goes on sale\
- , 1938 - 89 years
+ rns 74\n[Nerd ★] First appearance: Superman - Action Comics #1 goes on s
+ ale\, 1938 - 89 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1980,8 +1980,9 @@ SUMMARY:Day 348 ★
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
- [Nerd] Birthday: Gina Torres (Zoe Washburne) turns 58\n[Nerd] First appear
- ance: The Joker and Catwoman - Batman #1 goes on sale\, 1940 - 87 years
+ [Nerd] Birthday: Gina Torres (Zoe Washburne) turns 58\n[Nerd ★] First ap
+ pearance: The Joker and Catwoman - Batman #1 goes on sale\, 1940 - 87 year
+ s
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2031,13 +2032,13 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 354
+SUMMARY:Day 354 ★
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 DESCRIPTION:[Anchor] WEDDING VIDEO DAY - Show wedding video: I came out to 
  the Imperial March. A lifelong Star Wars fan through and through.\n[Nerd] 
- Fan holiday: Free Comic Book Day\n[Nerd] First appearance: SpongeBob - Spo
- ngeBob SquarePants TV premiere\, 1999 - 28 years
+ Fan holiday: Free Comic Book Day\n[Nerd ★] First appearance: SpongeBob -
+  SpongeBob SquarePants TV premiere\, 1999 - 28 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2094,13 +2095,13 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 361
+SUMMARY:Day 361 ★
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
  [Nerd] Anniversary: Star Trek (2009\, Kelvin) released 2009 - 18 years\n[N
- erd] First appearance: The Borg - Star Trek: TNG 'Q Who' (syndicated\, wee
- k of May 8)\, 1989 - 38 years
+ erd ★] First appearance: The Borg - Star Trek: TNG 'Q Who' (syndicated\,
+  week of May 8)\, 1989 - 38 years
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
