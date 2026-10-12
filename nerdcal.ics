@@ -89,7 +89,7 @@ DESCRIPTION:[Anchor] Release anniversary: Andor (Live-Action Series) - 4 y
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 133
+SUMMARY:Day 133 ★
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 DESCRIPTION:[Anchor] Birthday: Richard Marquand (Director Return of the Je
@@ -298,7 +298,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 159
+SUMMARY:Day 159 ★
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 DESCRIPTION:[Anchor] Batman Arkham City released 2011 (Joker)\n[Nerd ★] B
@@ -346,7 +346,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 164
+SUMMARY:Day 164 ★
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -546,7 +546,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 187
+SUMMARY:Day 187 ★
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -555,7 +555,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 188
+SUMMARY:Day 188 ★
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -610,7 +610,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 194
+SUMMARY:Day 194 ★
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -648,7 +648,7 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 198
+SUMMARY:Day 198 ★
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 DESCRIPTION:[Anchor] Thanksgiving 2026\n[Nerd ★] Anniversary: Star Trek I
@@ -730,7 +730,7 @@ DESCRIPTION:[Anchor] WEDDING VIDEO DAY - Show wedding video: I came out to
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 208
+SUMMARY:Day 208 ★
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 DESCRIPTION:[Anchor] Star Wars Unlimited card #208: Luke Skywalker\\\, Drea
@@ -750,7 +750,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 210
+SUMMARY:Day 210 ★
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 DESCRIPTION:[Anchor] Video Game Release: Wing Commander III: Heart of the T
@@ -825,7 +825,7 @@ DESCRIPTION:[Anchor] Release anniversary: The Last Jedi (Film) - 9 years si
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 218
+SUMMARY:Day 218 ★
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 DESCRIPTION:[Anchor] Release anniversary: Rogue One (Film) - 10 years since
@@ -846,7 +846,7 @@ DESCRIPTION:[Anchor] Birthday: Rian Johnson (Director The Last Jedi) - turn
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 220
+SUMMARY:Day 220 ★
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 DESCRIPTION:[Anchor] Release anniversary: The Force Awakens (Film) - 11 yea
@@ -857,7 +857,7 @@ DESCRIPTION:[Anchor] Release anniversary: The Force Awakens (Film) - 11 yea
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 221
+SUMMARY:Day 221 ★
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
@@ -946,7 +946,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 231
+SUMMARY:Day 231 ★
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 DESCRIPTION:[Anchor] Birthday: Diego Luna (Cassian Andor) - turns 47 on De
@@ -1014,7 +1014,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 239
+SUMMARY:Day 239 ★
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 DESCRIPTION:[Anchor] Birthday: Genevieve O'Reilly (Mon Mothma) - turns 50 
@@ -1068,7 +1068,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 246
+SUMMARY:Day 246 ★
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -1092,7 +1092,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 249
+SUMMARY:Day 249 ★
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 DESCRIPTION:[Anchor] TV Finale Aired: Regular Show - Series Finale - Hamill
@@ -1150,7 +1150,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 256
+SUMMARY:Day 256 ★
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 DESCRIPTION:[Anchor] Announcement anniversary: The Last Jedi (Film) - 10 ye
@@ -1299,7 +1299,7 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 274
+SUMMARY:Day 274 ★
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -1346,7 +1346,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 280
+SUMMARY:Day 280 ★
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
@@ -1419,7 +1419,7 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 288
+SUMMARY:Day 288 ★
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -1534,7 +1534,7 @@ DESCRIPTION:[Anchor] Birthday: Oscar Isaac (Poe Dameron) - turns 48 on Mar
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 302
+SUMMARY:Day 302 ★
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
@@ -1546,7 +1546,7 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old wh
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 303
+SUMMARY:Day 303 ★
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 DESCRIPTION:[Anchor] Announcement anniversary: Rebels (Animated Series) - 1
@@ -1767,7 +1767,7 @@ DESCRIPTION:[Anchor] TV Series Premiere: Adventure Time - Series Premiere -
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 329
+SUMMARY:Day 329 ★
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 DESCRIPTION:[Anchor] Birthday: Billy Dee Williams (Lando Calrissian) - tur
@@ -1832,7 +1832,7 @@ DESCRIPTION:[Anchor] Announcement anniversary: Forces of Destiny (Animated
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 337
+SUMMARY:Day 337 ★
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -1886,7 +1886,7 @@ DESCRIPTION:[Anchor] Birthday: Hayden Christensen (Anakin Skywalker / Dart
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 343
+SUMMARY:Day 343 ★
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 DESCRIPTION:[Anchor] Birthday: Andy Serkis (Supreme Leader Snoke) - turns 6
@@ -1949,7 +1949,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 351
+SUMMARY:Day 351 ★
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -1994,7 +1994,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 356
+SUMMARY:Day 356 ★
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -2011,7 +2011,7 @@ DESCRIPTION:[Anchor] Release anniversary: The Bad Batch (Animated Series)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 358
+SUMMARY:Day 358 ★
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)\n
@@ -2103,7 +2103,7 @@ DESCRIPTION:[Anchor] RESET DAY - Why I'm doing this: I was two weeks old w
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 369
+SUMMARY:Day 369 ★
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 DESCRIPTION:[Anchor] Release anniversary: Attack of the Clones (Film) - 25
@@ -2175,7 +2175,7 @@ DESCRIPTION:Your choice - open day (anecdotes / merch / personal history)
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 378
+SUMMARY:Day 378 ★
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 DESCRIPTION:[Anchor] Birthday: Frank Oz (Yoda performer and voice) - turns
